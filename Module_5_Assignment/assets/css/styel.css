@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.six_buttons {
+    margin-top: 100px;
+    padding: 60px;  
+}
+.form_box {
+    padding-left: 50px;
+    padding-right: 50px;
+}
